@@ -1,0 +1,39 @@
+body
+{
+	margin:10%;
+}/*body*/
+p
+{
+	color:blue;
+	padding:5%;
+	text-indent:10px;
+	margin:5%;
+	border:solid blue 10px;
+	font-family:Comic Sans MS;
+}/*p*/
+h1
+{
+	background:blue;
+	color:white;
+	margin:10% 5% 5% 10%;
+	border:dotted black 15px;
+	font-family:Lucida Console;
+}/*h1*/
+h2{
+	margin:0% 35% 0% 35%;
+	border:dotted blue 5px;
+	background:black;
+	color:white;
+	font-family:Georgia;
+}/*h2*/
+p.picture
+{
+	text-indent:0px;
+	margin:0%;
+	border:solid blue 0px;
+	color:black;
+}/*p.picture*/
+img
+{
+	margin:0% 15% 0% 15%;
+}/*img*/
