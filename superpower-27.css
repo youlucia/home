@@ -1,0 +1,41 @@
+body
+{
+	margin:15%;
+	border:solid white 20px;
+	background:black;
+}/*body*/
+p
+{
+	color:yellow;
+	padding:5%;
+	text-indent:10px;
+	border:solid white 5px;
+	background:red;
+	font-family:Courier New;
+}/*p*/
+h1
+{
+	background:red;
+	color:yellow;
+	padding:5%;
+	border:solid white 15px;
+	font-family:Impact;
+}/*h1*/
+h2
+{
+	background:green;
+	color:white;
+	padding:5%;
+	border:solid white 10px;
+	font-family:Arial Black;
+}/*h2*/
+p.picture
+{
+	background:green;
+	color:white;
+	border:solid white 10px;
+}/*p.picture*/
+img
+{
+	margin:0% 12% 0% 12%;
+}/*img*/
